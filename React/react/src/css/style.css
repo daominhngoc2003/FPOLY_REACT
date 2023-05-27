@@ -1,0 +1,22 @@
+.flex{
+    display: flex;
+}
+.justify-between{
+    justify-content: space-between;
+}
+.items-center{
+    align-items: center;
+}
+.wrap-img > img { 
+    width: 100%;
+}
+.shadow{
+    box-shadow: inset;
+}
+
+li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}

@@ -1,0 +1,78 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Product 1",
+      "price": 100,
+      "cateId": 1
+    },
+    {
+      "id": 2,
+      "name": "Product 2",
+      "price": "2001"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Category 1"
+    },
+    {
+      "id": 2,
+      "name": "Category 2"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "email": "user1@gmail.com",
+      "password": "123456",
+      "role": 1
+    },
+    {
+      "id": 2,
+      "email": "user2@gmail.com",
+      "password": "654321",
+      "role": 2
+    },
+    {
+      "email": "ngoc@gmail.com",
+      "password": "$2a$10$hDz5R02ppzvVqpIji/hcPeGlu/8RVuR2x8MhANj8iVejG.O1WCqlG",
+      "name": "Đào Minh Ngọc",
+      "confirm": "123456",
+      "role": "admin",
+      "id": 3
+    },
+    {
+      "email": "ngoc1@gmail.com",
+      "password": "$2a$10$reACM/Ld8ewkuXi5FNdi6eGSkws9hgOANdwAclCn2jpfrm2/Hvsu6",
+      "name": "Danh mục 3",
+      "confirm": "123456",
+      "id": 4
+    },
+    {
+      "email": "ngoc12@gmail.com",
+      "password": "$2a$10$xY0cBGpsMWoMcHhr44Pv2OOiT0ElZgBZ2ExQ8ePHIDuGU9ya/d4d.",
+      "name": "ngoc",
+      "confirm": "123456",
+      "id": 5
+    },
+    {
+      "email": "ngoc12345@gmail.com",
+      "password": "$2a$10$9s7IEzkK1vRNvASigPdSFu3Vf/u8GAwqoxEarLVEVDq.r1hsLMG92",
+      "name": "a",
+      "confirm": "123456",
+      "id": 6
+    }
+  ],
+  "roles": [
+    {
+      "id": 1,
+      "name": "admin"
+    },
+    {
+      "id": 2,
+      "name": "user"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "iphone 11",
+      "price": 12000,
+      "image": "iphone 11",
+      "discount": "iphone 11"
+    },
+    {
+      "id": 2,
+      "name": "iphone 11",
+      "price": 12000,
+      "image": "iphone 11",
+      "discount": "iphone 11"
+    },
+    {
+      "name": "iphone 11",
+      "price": "234",
+      "discount": "233",
+      "image": "anhras",
+      "des": "dep",
+      "id": 8
+    }
+  ]
+}
